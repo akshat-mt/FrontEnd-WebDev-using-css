@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+<body>
+    <div class="row">
+        <div class="col-12 col-md-2 col-lg-2 " style="color:#E86830;">
+            <h3 style="position: relative;top:50%;left:50%;font-family:'Times New Roman', Times, serif;font-weight:900;">Furniture</h3>
+        </div>
+        <div class="col-12 col-md-9 col-lg-9 " style="color:#413A41;font-weight:900;display:flex;flex-direction:row;position: relative;">
+            <h6 style="position: relative;left:20%;top:70%;">Home</h6>
+            <h6 style="position: relative;left:30%;top:70%;">Furniture</h6>
+            <h6 style="position: relative;left:40%;top:70%;">Lighting</h6>
+            <h6 style="position: relative;left:50%;top:70%;">Store</h6>
+        </div>
+        <div class="col-12 col-md-1 col-lg-1" style="color: #413A41;flex-direction: row;display: flex;">
+           <div style="position:relative;top:70%;left:30%"><i class="fa fa-search" aria-hidden="true"></i></div>
+           <div style="position:relative;top:70%;left:40%"><i class="fa fa-shopping-bag" aria-hidden="true"></i></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-12 col-lg-12" style="font-size:11vh;color: #413A41;font-family: 'Times New Roman', Times, serif;">
+            <h1 style="margin-top:7vh;font-weight:bolder;margin-left:38vw;">Filling the home with<br>beautiful Creation of wood</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-12 col-lg-12" >
+            <img src="hehe4.jpg" alt="photo" height="70%" width="50%" style="border-radius:1rem;margin-top:7vh;margin-left:28vw;">
+        </div>
+    </div>
+    <div class="row" style="margin-left:17vw;">
+        <div class="col-12 col-md-2 col-lg-2" style="margin-bottom:8vh;">
+            <img src="fast-company-logo.png" alt="photo">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2" style="margin-bottom:8vh;">
+             <img src="fast-company-logo.png" alt="photo">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2" style="margin-bottom:8vh;">
+            <img src="fast-company-logo.png" alt="photo">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2" style="margin-bottom:8vh;">
+            <img src="fast-company-logo.png" alt="photo">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2" style="margin-bottom:8vh;">
+            <img src="fast-company-logo.png" alt="photo">
+        </div>
+        
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-6">
+            <div class="col-6 col-md-3 col-lg-3" style="display: flex;flex-direction:row;">
+                <img src="light.jpg" alt="photo" style="margin-left:10vw;border-radius:2vw;" height="50%vh" width="120%vw">
+                <img src="table.jpg" alt="photo" style="border-radius:2vw;margin-left:3vw;margin-top:15vh;" height="200vh" width="500vw">
+            </div>
+            <div class="col-6 col-md-3 col-lg-3" style="display: flex;flex-direction:row;margin-left:8vw;margin-top:2vh;">
+                <img src="sofa.webp" alt="photo" width="500vw" height="300vh" style="border-radius: 0vw 2vw 2vw 0vw ;">
+                <img src="sofa1.jpg" alt="photo" width="500vw" height="300vh" style="border-radius: 2vw 2vw 2vw 2vw ;margin-left:1vw;margin-top:2vh;">
+            </div>
+        </div>
+        <div class="col-12 col-md-3 col-lg-6" style="display: flex;flex-direction: column;">
+            
+                <p style="font-size:10vh;font-family: 'Times New Roman', Times, serif;font-weight: bolder;color: #413A41;margin-left:18vw;margin-top:10vw;">Furniture<br>The different</p>
+                <p style="color:#C2BEC4;font-size:3vh;margin-left:18vw;font-weight: 500;">You can now open front door from anywhere<br>via app-simply install nello one directly<br>on your existing intercom phone in your apartment.</p>
+                <button style="width:12vw;height:5vh;background-color: #E86830;color: whitesmoke;border-radius:0.8vw;margin-left: 18vw;border-color: #E86830;font-size:2vh;">Learn More</button>
+    
+        </div>   
+    </div>  
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-6" >
+            <div style="display: flex;flex-direction:column;">
+                <p style="font-size:10vh;font-family: 'Times New Roman', Times, serif;font-weight: bolder;color: #413A41;margin-left: 18vw;margin-top:30vh;">Classic Italian Furniture Manufacturer</p>
+                <p style="color:#C2BEC4;font-size:3vh;margin-left:18vw;font-weight: 500;margin-right:2vw;" >Establised in 1818,Modenese family has been crafting and designing bespoke furniture ranges over last two centuries</p>
+            </div> 
+        </div>
+        <div class="col-12 col-md-6 col-lg-6" >
+            <img src="stat.jpg" alt="photo" style="border-radius:3vw; margin-top:20vh;margin-left:15vw;">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-6">
+            <img src="table_char.jpg" alt="photo" style="margin-left:10vw;margin-top:10vw;border-radius:0vw 2vw 2vw 0vw;" height="500vh" width="500vw">
+        </div>
+        <div class="col-12 col-md-6 col-lg-6" style="display: flex;flex-direction:column;" >
+            <p style="font-family:'Times New Roman', Times, serif;color: #413A41;font-size:10vh;margin-top:18vh;font-weight: bolder;">Specail Offer<br>join us</p>
+            <p style="color: #C2BEC4;font-size:1.5vw;font-weight: 500;">Sign up for the newsletter and get 10% off on first order</p>
+            <div style="background-color: #F3F1F0; width:25vw;height:8vh;border-radius:1vw;padding-top:2vh;padding-left:1.5vw;color: #C2BEC4;">Email</div>
+            <div style="background-color: #F3F1F0; width:25vw;height:8vh;border-radius:1vw;padding-top:2vh;padding-left:1.5vw;color: #C2BEC4;margin-top:2vh;">Email</div>
+           <div style="background-color: #E86830; width:25vw;height:8vh;border-radius:1vw;padding-top:2vh;padding-left:10vw;color:whitesmoke;margin-top:2vh;">Sign up now</div>
+        </div>
+    </div>
+</body>
+</html>
